@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-I'm a project manager who thrives at the intersection of ideas, execution, and teamwork. During a recent hackathon sprint, I led the creation of **20+ public repositories**, turning ideas into real-world prototypes alongside talented developers and designers.
+I'm a project manager who thrives at the intersection of ideas, execution, and teamwork. During a recent hackathon sprint, I mentored the creation of **20+ public repositories**, turning ideas into real-world prototypes alongside talented developers and designers.
 
 ---
 
